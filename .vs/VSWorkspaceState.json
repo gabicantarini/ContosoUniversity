@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "\\ContosoUniversity",
+    "\\ContosoUniversity\\Views",
+    "\\ContosoUniversity\\Views\\Home"
   ],
   "PreviewInSolutionExplorer": false
 }
