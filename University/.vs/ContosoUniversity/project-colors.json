@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad2add10-5df0-4da9-acea-72e5f3c6d92c": {
+      "ProjectGuid": "ad2add10-5df0-4da9-acea-72e5f3c6d92c",
+      "DisplayName": "ContosoUniversity",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
