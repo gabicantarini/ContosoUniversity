@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\Desktop\\Cantarini\\Gabriela\\TI\\Projetos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\leand\\Desktop\\Cantarini\\Gabriela\\TI\\Projetos\\ContosoUniversity\\University\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\leand\\Desktop\\Cantarini\\Gabriela\\TI\\Projetos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectPath": "C:\\Users\\leand\\Desktop\\Cantarini\\Gabriela\\TI\\Projetos\\ContosoUniversity\\University\\ContosoUniversity\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\Desktop\\Cantarini\\Gabriela\\TI\\Projetos\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity\\obj\\",
+      "outputPath": "C:\\Users\\leand\\Desktop\\Cantarini\\Gabriela\\TI\\Projetos\\ContosoUniversity\\University\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
